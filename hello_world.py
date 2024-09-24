@@ -5,7 +5,7 @@ Tommy Skul - September 2024
 
 
 def main():
-  name: str = input("What is your name?")
+  name: str = input("What is your name?") 
   print ("Hello", name, "!")
 
 
