@@ -1,8 +1,12 @@
+"""This is my first program.
+Tommy Skul - September 2024
 
+"""
 
 
 def main():
-  pass
+  name: str = input("What is your name?")
+  print ("Hello", name, "!")
 
 
 
